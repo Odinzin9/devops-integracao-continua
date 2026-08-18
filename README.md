@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-- **Redis** — cache em memória (planejado para próxima versão)
-=======
 # DevOps Task API
 
 API REST desenvolvida como parte da atividade prática das disciplinas de **DevOps e Integração Contínua** (UNINTER), simulando uma solução de consultoria para a empresa fictícia **CodeFactory Solutions**, aplicando práticas de versionamento, containerização e integração contínua.
@@ -74,4 +71,3 @@ O uso de Docker elimina o problema de "na minha máquina funciona": qualquer nov
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
->>>>>>> desenvolvimento
