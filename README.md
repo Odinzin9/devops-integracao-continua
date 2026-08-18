@@ -1,0 +1,1 @@
+- **Redis** — cache em memória (planejado para próxima versão)
